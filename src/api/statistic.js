@@ -1,0 +1,18 @@
+import fetch from '@/utils/fetch'
+
+export const statisticDevice = (dateUnit, dateRange) => fetch(`online/management/statistic/device/${dateUnit}/${dateRange}`, null, 'GET')
+export const statisticTotalDevice = () => fetch(`online/management/statistic/device/total`, null, 'GET')
+export const statisticApplicationDownloadCount = (params) => fetch(`online/management/statistic/application/download/count`, params, 'GET')
+export const applicationCount = () => fetch(`online/management/statistic/application/count`, null, 'GET')
+export const applicationVersionTrend = (params) => fetch(`online/management/statistic/application/version/trend`, params, 'GET')
+export const appstoreApplicationCount = () => fetch(`online/management/statistic/appstore/application/count`, null, 'GET')
+export const appstoreApplicationVersionTrend = (params) => fetch(`online/management/statistic/appstore/application/version/trend`, params, 'GET')
+export const operatorActiveDeviceCount = (params) => fetch(`online/management/statistic/operator/active/device/count`, params, 'GET')
+export const newOperatorCountTrend = (params) => fetch(`online/management/statistic/operator/trend`, params, 'GET')
+export const newOperatorAccountTrend = (params) => fetch(`online/management/statistic/operator/account/trend`, params, 'GET')
+export const operatorActivityTrend = (params) => fetch(`online/management/statistic/operator/activity/trend`, params, 'GET')
+export const cmdFlyDeskTrend = (params) => fetch(`online/management/statistic/cmd/fly-desk/trend`, params, 'GET')
+export const cmdFlyKeyTrend = (params) => fetch(`online/management/statistic/cmd/fly-key/trend`, params, 'GET')
+export const appstoreApplicationDownloadCount = (params) => fetch(`online/management/statistic/appstore/application/download/count`, params, 'GET')
+export const appstoreApplicationDailyDownloadTrend = (params) => fetch(`online/management/statistic/appstore/application/download/trend`, params, 'GET')
+export const tomsApplicationDailyDownloadTrend = (params) => fetch(`online/management/statistic/application/download/count/trend `, params, 'GET')

@@ -1,0 +1,40 @@
+// 站点主色
+// tips: 要达到整站主题修改效果, 请确保[$--color-primary]站点主色与[/src/element-ui-theme/index.js]文件中[import './element-[#17B3A3]/index.css']当前主题色一致
+$--color-primary: #346CB0;
+$--color-primary-brand: #30619f;
+$--color-primary-focus: #346CB0;
+$--color-primary-hover: #4e7eb9;
+$--color-bg-light: #f6f7f9;
+$--color-primary-text: #363642;
+$--color-primary-text-sec: #888C9B;
+$--color-primary-btn-focus: #2b5a92;
+
+// Navbar
+$navbar--background-color: $--color-primary;
+$navbar-brand--background-color: $--color-primary-brand;
+$navbar--background-color-hover: $--color-primary-hover;
+$navbar--text-color: #d6e2ef;
+
+// Sidebar
+$sidebar--background-color: $--color-bg-light;
+$sidebar--color-text: $--color-primary-text;
+
+$sidebar--background-color-dark: #263238;
+$sidebar--color-text-dark: #8a979e;
+
+
+// Content
+$content--background-color: $--color-bg-light;
+
+// {"global":
+//   {
+//     "$--color-primary":"#346CB0",
+//     "$--color-success":"#00A28A",
+//     "$--color-danger":"#B76BA3",
+//     "$--color-white":"#D6D8E1",
+//     "$--color-black":"#222330",
+//     "$--color-text-primary":"#363642",
+//     "$--color-text-secondary":"#888C9B"
+//   },
+//   "local":{}
+// }

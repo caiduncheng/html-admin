@@ -1,0 +1,11 @@
+import fetch from '@/utils/fetch'
+export const developerList = (params) => fetch('online/developer-admin/developer', params, 'GET')
+export const getDeveloperInfo = (developerId) => fetch(`online/developer-admin/developer/${developerId}/dashboard`)
+export const developerAppList = (params) => fetch(`online/developer-admin/developer/app`, params, 'GET')
+export const getDeveloperApp = (developerId) => fetch(`online/developer-admin/developer/${developerId}/app`)
+export const appStoreAppList = (params) => fetch(`online/developer-admin/developer/app`, params, 'GET')
+export const lockDeveloper = (developerId) => fetch(`online/developer-admin/developer/${developerId}/lock`, null, 'POST')
+export const unlockDeveloper = (developerId) => fetch(`online/developer-admin/developer/${developerId}/unlock`, null, 'POST')
+export const deleteDeveloper = (developerId) => fetch(`online/developer-admin/developer/${developerId}`, null, 'DELETE')
+export const applyCert = (data) => fetch(`online/developer-admin/developer/apply/cert`, data, 'POST')
+export const getCsrInfo = (developerId) => fetch(`online/developer-admin/developer/${developerId}/csr`, null, 'GET')

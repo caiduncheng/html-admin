@@ -1,0 +1,2002 @@
+[
+  {
+      "countryId": 1,
+      "countryCode2": "AD",
+      "countryCode3": "AND",
+      "countryNameEn": "Andorra",
+      "countryNameZh": "安道尔",
+      "status": 0
+  },
+  {
+      "countryId": 2,
+      "countryCode2": "AE",
+      "countryCode3": "ARE",
+      "countryNameEn": "United Arab Emirates",
+      "countryNameZh": "阿联酋",
+      "status": 0
+  },
+  {
+      "countryId": 3,
+      "countryCode2": "AF",
+      "countryCode3": "AFG",
+      "countryNameEn": "Afghanistan",
+      "countryNameZh": "阿富汗",
+      "status": 0
+  },
+  {
+      "countryId": 4,
+      "countryCode2": "AG",
+      "countryCode3": "ATG",
+      "countryNameEn": "Antigua and Barbuda",
+      "countryNameZh": "安提瓜和巴布达",
+      "status": 0
+  },
+  {
+      "countryId": 5,
+      "countryCode2": "AI",
+      "countryCode3": "AIA",
+      "countryNameEn": "Anguilla",
+      "countryNameZh": "安圭拉",
+      "status": 0
+  },
+  {
+      "countryId": 6,
+      "countryCode2": "AL",
+      "countryCode3": "ALB",
+      "countryNameEn": "Albania",
+      "countryNameZh": "阿尔巴尼亚",
+      "status": 0
+  },
+  {
+      "countryId": 7,
+      "countryCode2": "AM",
+      "countryCode3": "ARM",
+      "countryNameEn": "Armenia",
+      "countryNameZh": "亚美尼亚",
+      "status": 0
+  },
+  {
+      "countryId": 8,
+      "countryCode2": "AO",
+      "countryCode3": "AGO",
+      "countryNameEn": "Angola",
+      "countryNameZh": "安哥拉",
+      "status": 0
+  },
+  {
+      "countryId": 9,
+      "countryCode2": "AQ",
+      "countryCode3": "ATA",
+      "countryNameEn": "Antarctica",
+      "countryNameZh": "南极洲",
+      "status": 0
+  },
+  {
+      "countryId": 10,
+      "countryCode2": "AR",
+      "countryCode3": "ARG",
+      "countryNameEn": "Argentina",
+      "countryNameZh": "阿根廷",
+      "status": 0
+  },
+  {
+      "countryId": 11,
+      "countryCode2": "AS",
+      "countryCode3": "ASM",
+      "countryNameEn": "American Samoa",
+      "countryNameZh": "美属萨摩亚",
+      "status": 0
+  },
+  {
+      "countryId": 12,
+      "countryCode2": "AT",
+      "countryCode3": "AUT",
+      "countryNameEn": "Austria",
+      "countryNameZh": "奥地利",
+      "status": 0
+  },
+  {
+      "countryId": 13,
+      "countryCode2": "AU",
+      "countryCode3": "AUS",
+      "countryNameEn": "Australia",
+      "countryNameZh": "澳大利亚",
+      "status": 0
+  },
+  {
+      "countryId": 14,
+      "countryCode2": "AW",
+      "countryCode3": "ABW",
+      "countryNameEn": "Aruba",
+      "countryNameZh": "阿鲁巴",
+      "status": 0
+  },
+  {
+      "countryId": 15,
+      "countryCode2": "AX",
+      "countryCode3": "ALA",
+      "countryNameEn": "Åaland Islands",
+      "countryNameZh": "奥兰群岛",
+      "status": 0
+  },
+  {
+      "countryId": 16,
+      "countryCode2": "AZ",
+      "countryCode3": "AZE",
+      "countryNameEn": "Azerbaijan",
+      "countryNameZh": "阿塞拜疆",
+      "status": 0
+  },
+  {
+      "countryId": 17,
+      "countryCode2": "BA",
+      "countryCode3": "BIH",
+      "countryNameEn": "Bosnia and Herzegovina",
+      "countryNameZh": "波黑",
+      "status": 0
+  },
+  {
+      "countryId": 18,
+      "countryCode2": "BB",
+      "countryCode3": "BRB",
+      "countryNameEn": "Barbados",
+      "countryNameZh": "巴巴多斯",
+      "status": 0
+  },
+  {
+      "countryId": 19,
+      "countryCode2": "BD",
+      "countryCode3": "BGD",
+      "countryNameEn": "Bangladesh",
+      "countryNameZh": "孟加拉国",
+      "status": 0
+  },
+  {
+      "countryId": 20,
+      "countryCode2": "BE",
+      "countryCode3": "BEL",
+      "countryNameEn": "Belgium",
+      "countryNameZh": "比利时",
+      "status": 0
+  },
+  {
+      "countryId": 21,
+      "countryCode2": "BF",
+      "countryCode3": "BFA",
+      "countryNameEn": "Burkina Faso",
+      "countryNameZh": "布基纳法索",
+      "status": 0
+  },
+  {
+      "countryId": 22,
+      "countryCode2": "BG",
+      "countryCode3": "BGR",
+      "countryNameEn": "Bulgaria",
+      "countryNameZh": "保加利亚",
+      "status": 0
+  },
+  {
+      "countryId": 23,
+      "countryCode2": "BH",
+      "countryCode3": "BHR",
+      "countryNameEn": "Bahrain",
+      "countryNameZh": "巴林",
+      "status": 0
+  },
+  {
+      "countryId": 24,
+      "countryCode2": "BI",
+      "countryCode3": "BDI",
+      "countryNameEn": "Burundi",
+      "countryNameZh": "布隆迪",
+      "status": 0
+  },
+  {
+      "countryId": 25,
+      "countryCode2": "BJ",
+      "countryCode3": "BEN",
+      "countryNameEn": "Benin",
+      "countryNameZh": "贝宁",
+      "status": 0
+  },
+  {
+      "countryId": 26,
+      "countryCode2": "BL",
+      "countryCode3": "BLM",
+      "countryNameEn": "Saint Barthelemy",
+      "countryNameZh": "圣巴泰勒米岛",
+      "status": 0
+  },
+  {
+      "countryId": 27,
+      "countryCode2": "BM",
+      "countryCode3": "BMU",
+      "countryNameEn": "Bermuda",
+      "countryNameZh": "百慕大",
+      "status": 0
+  },
+  {
+      "countryId": 28,
+      "countryCode2": "BN",
+      "countryCode3": "BRN",
+      "countryNameEn": "Brunei Darussalam",
+      "countryNameZh": "文莱",
+      "status": 0
+  },
+  {
+      "countryId": 29,
+      "countryCode2": "BO",
+      "countryCode3": "BOL",
+      "countryNameEn": "Bolivia, Plurinational",
+      "countryNameZh": "玻利维亚",
+      "status": 0
+  },
+  {
+      "countryId": 30,
+      "countryCode2": "BQ",
+      "countryCode3": "BES",
+      "countryNameEn": "Bonaire, Sint Eustatius and Saba",
+      "countryNameZh": "荷兰加勒比区",
+      "status": 0
+  },
+  {
+      "countryId": 31,
+      "countryCode2": "BR",
+      "countryCode3": "BRA",
+      "countryNameEn": "Brazil",
+      "countryNameZh": "巴西",
+      "status": 1
+  },
+  {
+      "countryId": 32,
+      "countryCode2": "BS",
+      "countryCode3": "BHS",
+      "countryNameEn": "Bahamas",
+      "countryNameZh": "巴哈马",
+      "status": 0
+  },
+  {
+      "countryId": 33,
+      "countryCode2": "BT",
+      "countryCode3": "BTN",
+      "countryNameEn": "Bhutan",
+      "countryNameZh": "不丹",
+      "status": 0
+  },
+  {
+      "countryId": 34,
+      "countryCode2": "BV",
+      "countryCode3": "BVT",
+      "countryNameEn": "Bouvet Island",
+      "countryNameZh": "布韦岛",
+      "status": 0
+  },
+  {
+      "countryId": 35,
+      "countryCode2": "BW",
+      "countryCode3": "BWA",
+      "countryNameEn": "Botswana",
+      "countryNameZh": "博茨瓦纳",
+      "status": 0
+  },
+  {
+      "countryId": 36,
+      "countryCode2": "BY",
+      "countryCode3": "BLR",
+      "countryNameEn": "Belarus",
+      "countryNameZh": "白俄罗斯",
+      "status": 0
+  },
+  {
+      "countryId": 37,
+      "countryCode2": "BZ",
+      "countryCode3": "BLZ",
+      "countryNameEn": "Belize",
+      "countryNameZh": "伯利兹",
+      "status": 0
+  },
+  {
+      "countryId": 38,
+      "countryCode2": "CA",
+      "countryCode3": "CAN",
+      "countryNameEn": "Canada",
+      "countryNameZh": "加拿大",
+      "status": 0
+  },
+  {
+      "countryId": 39,
+      "countryCode2": "CC",
+      "countryCode3": "CCK",
+      "countryNameEn": "Cocos (Keeling) Islands",
+      "countryNameZh": "科科斯群岛",
+      "status": 0
+  },
+  {
+      "countryId": 40,
+      "countryCode2": "CD",
+      "countryCode3": "COD",
+      "countryNameEn": "Congo, the Democratic Republic of the",
+      "countryNameZh": "刚果（金）",
+      "status": 0
+  },
+  {
+      "countryId": 41,
+      "countryCode2": "CF",
+      "countryCode3": "CAF",
+      "countryNameEn": "Central African Republic",
+      "countryNameZh": "中非",
+      "status": 0
+  },
+  {
+      "countryId": 42,
+      "countryCode2": "CG",
+      "countryCode3": "COG",
+      "countryNameEn": "Congo",
+      "countryNameZh": "刚果（布）",
+      "status": 0
+  },
+  {
+      "countryId": 43,
+      "countryCode2": "CH",
+      "countryCode3": "CHE",
+      "countryNameEn": "Switzerland",
+      "countryNameZh": "瑞士",
+      "status": 0
+  },
+  {
+      "countryId": 44,
+      "countryCode2": "CI",
+      "countryCode3": "CIV",
+      "countryNameEn": "Cote d'Ivoire",
+      "countryNameZh": "科特迪瓦",
+      "status": 0
+  },
+  {
+      "countryId": 45,
+      "countryCode2": "CK",
+      "countryCode3": "COK",
+      "countryNameEn": "Cook Islands",
+      "countryNameZh": "库克群岛",
+      "status": 0
+  },
+  {
+      "countryId": 46,
+      "countryCode2": "CL",
+      "countryCode3": "CHL",
+      "countryNameEn": "Chile",
+      "countryNameZh": "智利",
+      "status": 0
+  },
+  {
+      "countryId": 47,
+      "countryCode2": "CM",
+      "countryCode3": "CMR",
+      "countryNameEn": "Cameroon",
+      "countryNameZh": "喀麦隆",
+      "status": 0
+  },
+  {
+      "countryId": 48,
+      "countryCode2": "CN",
+      "countryCode3": "CHN",
+      "countryNameEn": "China",
+      "countryNameZh": "中国",
+      "status": 1
+  },
+  {
+      "countryId": 49,
+      "countryCode2": "CO",
+      "countryCode3": "COL",
+      "countryNameEn": "Colombia",
+      "countryNameZh": "哥伦比亚",
+      "status": 0
+  },
+  {
+      "countryId": 50,
+      "countryCode2": "CR",
+      "countryCode3": "CRI",
+      "countryNameEn": "Costa Rica",
+      "countryNameZh": "哥斯达黎加",
+      "status": 0
+  },
+  {
+      "countryId": 51,
+      "countryCode2": "CU",
+      "countryCode3": "CUB",
+      "countryNameEn": "Cuba",
+      "countryNameZh": "古巴",
+      "status": 0
+  },
+  {
+      "countryId": 52,
+      "countryCode2": "CV",
+      "countryCode3": "CPV",
+      "countryNameEn": "Cape Verde",
+      "countryNameZh": "佛得角",
+      "status": 0
+  },
+  {
+      "countryId": 53,
+      "countryCode2": "CW",
+      "countryCode3": "CUW",
+      "countryNameEn": "Curacao",
+      "countryNameZh": "库拉索",
+      "status": 0
+  },
+  {
+      "countryId": 54,
+      "countryCode2": "CX",
+      "countryCode3": "CXR",
+      "countryNameEn": "Christmas Island",
+      "countryNameZh": "圣诞岛",
+      "status": 0
+  },
+  {
+      "countryId": 55,
+      "countryCode2": "CY",
+      "countryCode3": "CYP",
+      "countryNameEn": "Cyprus",
+      "countryNameZh": "塞浦路斯",
+      "status": 0
+  },
+  {
+      "countryId": 56,
+      "countryCode2": "CZ",
+      "countryCode3": "CZE",
+      "countryNameEn": "Czech Republic",
+      "countryNameZh": "捷克",
+      "status": 0
+  },
+  {
+      "countryId": 57,
+      "countryCode2": "DE",
+      "countryCode3": "DEU",
+      "countryNameEn": "Germany",
+      "countryNameZh": "德国",
+      "status": 0
+  },
+  {
+      "countryId": 58,
+      "countryCode2": "DJ",
+      "countryCode3": "DJI",
+      "countryNameEn": "Djibouti",
+      "countryNameZh": "吉布提",
+      "status": 0
+  },
+  {
+      "countryId": 59,
+      "countryCode2": "DK",
+      "countryCode3": "DNK",
+      "countryNameEn": "Denmark",
+      "countryNameZh": "丹麦",
+      "status": 0
+  },
+  {
+      "countryId": 60,
+      "countryCode2": "DM",
+      "countryCode3": "DMA",
+      "countryNameEn": "Dominica",
+      "countryNameZh": "多米尼克",
+      "status": 0
+  },
+  {
+      "countryId": 61,
+      "countryCode2": "DO",
+      "countryCode3": "DOM",
+      "countryNameEn": "Dominican Republic",
+      "countryNameZh": "多米尼加",
+      "status": 0
+  },
+  {
+      "countryId": 62,
+      "countryCode2": "DZ",
+      "countryCode3": "DZA",
+      "countryNameEn": "Algeria",
+      "countryNameZh": "阿尔及利亚",
+      "status": 0
+  },
+  {
+      "countryId": 63,
+      "countryCode2": "EC",
+      "countryCode3": "ECU",
+      "countryNameEn": "Ecuador",
+      "countryNameZh": "厄瓜多尔",
+      "status": 0
+  },
+  {
+      "countryId": 64,
+      "countryCode2": "EE",
+      "countryCode3": "EST",
+      "countryNameEn": "Estonia",
+      "countryNameZh": "爱沙尼亚",
+      "status": 0
+  },
+  {
+      "countryId": 65,
+      "countryCode2": "EG",
+      "countryCode3": "EGY",
+      "countryNameEn": "Egypt",
+      "countryNameZh": "埃及",
+      "status": 0
+  },
+  {
+      "countryId": 66,
+      "countryCode2": "EH",
+      "countryCode3": "ESH",
+      "countryNameEn": "Western Sahara",
+      "countryNameZh": "西撒哈拉",
+      "status": 0
+  },
+  {
+      "countryId": 67,
+      "countryCode2": "ER",
+      "countryCode3": "ERI",
+      "countryNameEn": "Eritrea",
+      "countryNameZh": "厄立特里亚",
+      "status": 0
+  },
+  {
+      "countryId": 68,
+      "countryCode2": "ES",
+      "countryCode3": "ESP",
+      "countryNameEn": "Spain",
+      "countryNameZh": "西班牙",
+      "status": 0
+  },
+  {
+      "countryId": 69,
+      "countryCode2": "ET",
+      "countryCode3": "ETH",
+      "countryNameEn": "Ethiopia",
+      "countryNameZh": "埃塞俄比亚",
+      "status": 0
+  },
+  {
+      "countryId": 70,
+      "countryCode2": "FI",
+      "countryCode3": "FIN",
+      "countryNameEn": "Finland",
+      "countryNameZh": "芬兰",
+      "status": 0
+  },
+  {
+      "countryId": 71,
+      "countryCode2": "FJ",
+      "countryCode3": "FJI",
+      "countryNameEn": "Fiji",
+      "countryNameZh": "斐济群岛",
+      "status": 0
+  },
+  {
+      "countryId": 72,
+      "countryCode2": "FK",
+      "countryCode3": "FLK",
+      "countryNameEn": "Falkland Islands (Malvinas)",
+      "countryNameZh": "马尔维纳斯群岛",
+      "status": 0
+  },
+  {
+      "countryId": 73,
+      "countryCode2": "FM",
+      "countryCode3": "FSM",
+      "countryNameEn": "Micronesia, Federated States of",
+      "countryNameZh": "密克罗尼西亚联邦",
+      "status": 0
+  },
+  {
+      "countryId": 74,
+      "countryCode2": "FO",
+      "countryCode3": "FRO",
+      "countryNameEn": "Faroe Islands",
+      "countryNameZh": "法罗群岛",
+      "status": 0
+  },
+  {
+      "countryId": 75,
+      "countryCode2": "FR",
+      "countryCode3": "FRA",
+      "countryNameEn": "France",
+      "countryNameZh": "法国",
+      "status": 1
+  },
+  {
+      "countryId": 76,
+      "countryCode2": "GA",
+      "countryCode3": "GAB",
+      "countryNameEn": "Gabon",
+      "countryNameZh": "加蓬",
+      "status": 0
+  },
+  {
+      "countryId": 77,
+      "countryCode2": "GB",
+      "countryCode3": "GBR",
+      "countryNameEn": "United Kingdom",
+      "countryNameZh": "英国",
+      "status": 1
+  },
+  {
+      "countryId": 78,
+      "countryCode2": "GD",
+      "countryCode3": "GRD",
+      "countryNameEn": "Grenada",
+      "countryNameZh": "格林纳达",
+      "status": 0
+  },
+  {
+      "countryId": 79,
+      "countryCode2": "GE",
+      "countryCode3": "GEO",
+      "countryNameEn": "Georgia",
+      "countryNameZh": "格鲁吉亚",
+      "status": 0
+  },
+  {
+      "countryId": 80,
+      "countryCode2": "GF",
+      "countryCode3": "GUF",
+      "countryNameEn": "French Guiana",
+      "countryNameZh": "法属圭亚那",
+      "status": 0
+  },
+  {
+      "countryId": 81,
+      "countryCode2": "GG",
+      "countryCode3": "GGY",
+      "countryNameEn": "Guernsey",
+      "countryNameZh": "根西岛",
+      "status": 0
+  },
+  {
+      "countryId": 82,
+      "countryCode2": "GH",
+      "countryCode3": "GHA",
+      "countryNameEn": "Ghana",
+      "countryNameZh": "加纳",
+      "status": 0
+  },
+  {
+      "countryId": 83,
+      "countryCode2": "GI",
+      "countryCode3": "GIB",
+      "countryNameEn": "Gibraltar",
+      "countryNameZh": "直布罗陀",
+      "status": 0
+  },
+  {
+      "countryId": 84,
+      "countryCode2": "GL",
+      "countryCode3": "GRL",
+      "countryNameEn": "Greenland",
+      "countryNameZh": "格陵兰",
+      "status": 0
+  },
+  {
+      "countryId": 85,
+      "countryCode2": "GM",
+      "countryCode3": "GMB",
+      "countryNameEn": "Gambia",
+      "countryNameZh": "冈比亚",
+      "status": 0
+  },
+  {
+      "countryId": 86,
+      "countryCode2": "GN",
+      "countryCode3": "GIN",
+      "countryNameEn": "Guinea",
+      "countryNameZh": "几内亚",
+      "status": 0
+  },
+  {
+      "countryId": 87,
+      "countryCode2": "GP",
+      "countryCode3": "GLP",
+      "countryNameEn": "Guadeloupe",
+      "countryNameZh": "瓜德罗普",
+      "status": 0
+  },
+  {
+      "countryId": 88,
+      "countryCode2": "GQ",
+      "countryCode3": "GNQ",
+      "countryNameEn": "Equatorial Guinea",
+      "countryNameZh": "赤道几内亚",
+      "status": 0
+  },
+  {
+      "countryId": 89,
+      "countryCode2": "GR",
+      "countryCode3": "GRC",
+      "countryNameEn": "Greece",
+      "countryNameZh": "希腊",
+      "status": 0
+  },
+  {
+      "countryId": 90,
+      "countryCode2": "GS",
+      "countryCode3": "SGS",
+      "countryNameEn": "South Georgia and the South Sandwich Islands",
+      "countryNameZh": "南乔治亚岛和南桑威奇群岛",
+      "status": 0
+  },
+  {
+      "countryId": 91,
+      "countryCode2": "GT",
+      "countryCode3": "GTM",
+      "countryNameEn": "Guatemala",
+      "countryNameZh": "危地马拉",
+      "status": 0
+  },
+  {
+      "countryId": 92,
+      "countryCode2": "GU",
+      "countryCode3": "GUM",
+      "countryNameEn": "Guam",
+      "countryNameZh": "关岛",
+      "status": 0
+  },
+  {
+      "countryId": 93,
+      "countryCode2": "GW",
+      "countryCode3": "GNB",
+      "countryNameEn": "Guinea-Bissau",
+      "countryNameZh": "几内亚比绍",
+      "status": 0
+  },
+  {
+      "countryId": 94,
+      "countryCode2": "GY",
+      "countryCode3": "GUY",
+      "countryNameEn": "Guyana",
+      "countryNameZh": "圭亚那",
+      "status": 0
+  },
+  {
+      "countryId": 95,
+      "countryCode2": "HK",
+      "countryCode3": "HKG",
+      "countryNameEn": "Hong Kong",
+      "countryNameZh": "中国香港",
+      "status": 0
+  },
+  {
+      "countryId": 96,
+      "countryCode2": "HM",
+      "countryCode3": "HMD",
+      "countryNameEn": "Heard Island and McDonald Islands",
+      "countryNameZh": "赫德岛和麦克唐纳群岛",
+      "status": 0
+  },
+  {
+      "countryId": 97,
+      "countryCode2": "HN",
+      "countryCode3": "HND",
+      "countryNameEn": "Honduras",
+      "countryNameZh": "洪都拉斯",
+      "status": 0
+  },
+  {
+      "countryId": 98,
+      "countryCode2": "HR",
+      "countryCode3": "HRV",
+      "countryNameEn": "Croatia",
+      "countryNameZh": "克罗地亚",
+      "status": 0
+  },
+  {
+      "countryId": 99,
+      "countryCode2": "HT",
+      "countryCode3": "HTI",
+      "countryNameEn": "Haiti",
+      "countryNameZh": "海地",
+      "status": 0
+  },
+  {
+      "countryId": 100,
+      "countryCode2": "HU",
+      "countryCode3": "HUN",
+      "countryNameEn": "Hungary",
+      "countryNameZh": "匈牙利",
+      "status": 0
+  },
+  {
+      "countryId": 101,
+      "countryCode2": "ID",
+      "countryCode3": "IDN",
+      "countryNameEn": "Indonesia",
+      "countryNameZh": "印尼",
+      "status": 0
+  },
+  {
+      "countryId": 102,
+      "countryCode2": "IE",
+      "countryCode3": "IRL",
+      "countryNameEn": "Ireland",
+      "countryNameZh": "爱尔兰",
+      "status": 0
+  },
+  {
+      "countryId": 103,
+      "countryCode2": "IL",
+      "countryCode3": "ISR",
+      "countryNameEn": "Israel",
+      "countryNameZh": "以色列",
+      "status": 0
+  },
+  {
+      "countryId": 104,
+      "countryCode2": "IM",
+      "countryCode3": "IMN",
+      "countryNameEn": "Isle of Man",
+      "countryNameZh": "马恩岛",
+      "status": 0
+  },
+  {
+      "countryId": 105,
+      "countryCode2": "IN",
+      "countryCode3": "IND",
+      "countryNameEn": "India",
+      "countryNameZh": "印度",
+      "status": 1
+  },
+  {
+      "countryId": 106,
+      "countryCode2": "IO",
+      "countryCode3": "IOT",
+      "countryNameEn": "British Indian Ocean Territory",
+      "countryNameZh": "英属印度洋领地",
+      "status": 0
+  },
+  {
+      "countryId": 107,
+      "countryCode2": "IQ",
+      "countryCode3": "IRQ",
+      "countryNameEn": "Iraq",
+      "countryNameZh": "伊拉克",
+      "status": 0
+  },
+  {
+      "countryId": 108,
+      "countryCode2": "IR",
+      "countryCode3": "IRN",
+      "countryNameEn": "Iran, Islamic Republic of",
+      "countryNameZh": "伊朗",
+      "status": 0
+  },
+  {
+      "countryId": 109,
+      "countryCode2": "IS",
+      "countryCode3": "ISL",
+      "countryNameEn": "Iceland",
+      "countryNameZh": "冰岛",
+      "status": 0
+  },
+  {
+      "countryId": 110,
+      "countryCode2": "IT",
+      "countryCode3": "ITA",
+      "countryNameEn": "Italy",
+      "countryNameZh": "意大利",
+      "status": 0
+  },
+  {
+      "countryId": 111,
+      "countryCode2": "JE",
+      "countryCode3": "JEY",
+      "countryNameEn": "Jersey",
+      "countryNameZh": "泽西岛",
+      "status": 0
+  },
+  {
+      "countryId": 112,
+      "countryCode2": "JM",
+      "countryCode3": "JAM",
+      "countryNameEn": "Jamaica",
+      "countryNameZh": "牙买加",
+      "status": 0
+  },
+  {
+      "countryId": 113,
+      "countryCode2": "JO",
+      "countryCode3": "JOR",
+      "countryNameEn": "Jordan",
+      "countryNameZh": "约旦",
+      "status": 0
+  },
+  {
+      "countryId": 114,
+      "countryCode2": "JP",
+      "countryCode3": "JPN",
+      "countryNameEn": "Japan",
+      "countryNameZh": "日本",
+      "status": 0
+  },
+  {
+      "countryId": 115,
+      "countryCode2": "KE",
+      "countryCode3": "KEN",
+      "countryNameEn": "Kenya",
+      "countryNameZh": "肯尼亚",
+      "status": 0
+  },
+  {
+      "countryId": 116,
+      "countryCode2": "KG",
+      "countryCode3": "KGZ",
+      "countryNameEn": "Kyrgyzstan",
+      "countryNameZh": "吉尔吉斯斯坦",
+      "status": 0
+  },
+  {
+      "countryId": 117,
+      "countryCode2": "KH",
+      "countryCode3": "KHM",
+      "countryNameEn": "Cambodia",
+      "countryNameZh": "柬埔寨",
+      "status": 0
+  },
+  {
+      "countryId": 118,
+      "countryCode2": "KI",
+      "countryCode3": "KIR",
+      "countryNameEn": "Kiribati",
+      "countryNameZh": "基里巴斯",
+      "status": 0
+  },
+  {
+      "countryId": 119,
+      "countryCode2": "KM",
+      "countryCode3": "COM",
+      "countryNameEn": "Comoros",
+      "countryNameZh": "科摩罗",
+      "status": 0
+  },
+  {
+      "countryId": 120,
+      "countryCode2": "KN",
+      "countryCode3": "KNA",
+      "countryNameEn": "Saint Kitts and Nevis",
+      "countryNameZh": "圣基茨和尼维斯",
+      "status": 0
+  },
+  {
+      "countryId": 121,
+      "countryCode2": "KP",
+      "countryCode3": "PRK",
+      "countryNameEn": "Korea, Democratic People's Republic of",
+      "countryNameZh": "朝鲜",
+      "status": 0
+  },
+  {
+      "countryId": 122,
+      "countryCode2": "KR",
+      "countryCode3": "KOR",
+      "countryNameEn": "Korea, Republic of",
+      "countryNameZh": "韩国",
+      "status": 1
+  },
+  {
+      "countryId": 123,
+      "countryCode2": "KW",
+      "countryCode3": "KWT",
+      "countryNameEn": "Kuwait",
+      "countryNameZh": "科威特",
+      "status": 0
+  },
+  {
+      "countryId": 124,
+      "countryCode2": "KY",
+      "countryCode3": "CYM",
+      "countryNameEn": "Cayman Islands",
+      "countryNameZh": "开曼群岛",
+      "status": 0
+  },
+  {
+      "countryId": 125,
+      "countryCode2": "KZ",
+      "countryCode3": "KAZ",
+      "countryNameEn": "Kazakhstan",
+      "countryNameZh": "哈萨克斯坦",
+      "status": 0
+  },
+  {
+      "countryId": 126,
+      "countryCode2": "LA",
+      "countryCode3": "LAO",
+      "countryNameEn": "Lao People's Democratic Republic",
+      "countryNameZh": "老挝",
+      "status": 0
+  },
+  {
+      "countryId": 127,
+      "countryCode2": "LB",
+      "countryCode3": "LBN",
+      "countryNameEn": "Lebanon",
+      "countryNameZh": "黎巴嫩",
+      "status": 0
+  },
+  {
+      "countryId": 128,
+      "countryCode2": "LC",
+      "countryCode3": "LCA",
+      "countryNameEn": "Saint Lucia",
+      "countryNameZh": "圣卢西亚",
+      "status": 0
+  },
+  {
+      "countryId": 129,
+      "countryCode2": "LI",
+      "countryCode3": "LIE",
+      "countryNameEn": "Liechtenstein",
+      "countryNameZh": "列支敦士登",
+      "status": 0
+  },
+  {
+      "countryId": 130,
+      "countryCode2": "LK",
+      "countryCode3": "LKA",
+      "countryNameEn": "Sri Lanka",
+      "countryNameZh": "斯里兰卡",
+      "status": 0
+  },
+  {
+      "countryId": 131,
+      "countryCode2": "LR",
+      "countryCode3": "LBR",
+      "countryNameEn": "Liberia",
+      "countryNameZh": "利比里亚",
+      "status": 0
+  },
+  {
+      "countryId": 132,
+      "countryCode2": "LS",
+      "countryCode3": "LSO",
+      "countryNameEn": "Lesotho",
+      "countryNameZh": "莱索托",
+      "status": 0
+  },
+  {
+      "countryId": 133,
+      "countryCode2": "LT",
+      "countryCode3": "LTU",
+      "countryNameEn": "Lithuania",
+      "countryNameZh": "立陶宛",
+      "status": 0
+  },
+  {
+      "countryId": 134,
+      "countryCode2": "LU",
+      "countryCode3": "LUX",
+      "countryNameEn": "Luxembourg",
+      "countryNameZh": "卢森堡",
+      "status": 0
+  },
+  {
+      "countryId": 135,
+      "countryCode2": "LV",
+      "countryCode3": "LVA",
+      "countryNameEn": "Latvia",
+      "countryNameZh": "拉脱维亚",
+      "status": 0
+  },
+  {
+      "countryId": 136,
+      "countryCode2": "LY",
+      "countryCode3": "LBY",
+      "countryNameEn": "Libya",
+      "countryNameZh": "利比亚",
+      "status": 0
+  },
+  {
+      "countryId": 137,
+      "countryCode2": "MA",
+      "countryCode3": "MAR",
+      "countryNameEn": "Morocco",
+      "countryNameZh": "摩洛哥",
+      "status": 0
+  },
+  {
+      "countryId": 138,
+      "countryCode2": "MC",
+      "countryCode3": "MCO",
+      "countryNameEn": "Monaco",
+      "countryNameZh": "摩纳哥",
+      "status": 0
+  },
+  {
+      "countryId": 139,
+      "countryCode2": "MD",
+      "countryCode3": "MDA",
+      "countryNameEn": "Moldova, Republic of",
+      "countryNameZh": "摩尔多瓦",
+      "status": 0
+  },
+  {
+      "countryId": 140,
+      "countryCode2": "ME",
+      "countryCode3": "MNE",
+      "countryNameEn": "Montenegro",
+      "countryNameZh": "黑山",
+      "status": 0
+  },
+  {
+      "countryId": 141,
+      "countryCode2": "MF",
+      "countryCode3": "MAF",
+      "countryNameEn": "Saint Martin (French part)",
+      "countryNameZh": "法属圣马丁",
+      "status": 0
+  },
+  {
+      "countryId": 142,
+      "countryCode2": "MG",
+      "countryCode3": "MDG",
+      "countryNameEn": "Madagascar",
+      "countryNameZh": "马达加斯加",
+      "status": 0
+  },
+  {
+      "countryId": 143,
+      "countryCode2": "MH",
+      "countryCode3": "MHL",
+      "countryNameEn": "Marshall islands",
+      "countryNameZh": "马绍尔群岛",
+      "status": 0
+  },
+  {
+      "countryId": 144,
+      "countryCode2": "MK",
+      "countryCode3": "MKD",
+      "countryNameEn": "Macedonia, the former Yugoslav Republic of",
+      "countryNameZh": "马其顿",
+      "status": 0
+  },
+  {
+      "countryId": 145,
+      "countryCode2": "ML",
+      "countryCode3": "MLI",
+      "countryNameEn": "Mali",
+      "countryNameZh": "马里",
+      "status": 0
+  },
+  {
+      "countryId": 146,
+      "countryCode2": "MM",
+      "countryCode3": "MMR",
+      "countryNameEn": "Myanmar",
+      "countryNameZh": "缅甸",
+      "status": 0
+  },
+  {
+      "countryId": 147,
+      "countryCode2": "MN",
+      "countryCode3": "MNG",
+      "countryNameEn": "Mongolia",
+      "countryNameZh": "蒙古国",
+      "status": 0
+  },
+  {
+      "countryId": 148,
+      "countryCode2": "MO",
+      "countryCode3": "MAC",
+      "countryNameEn": "Macao",
+      "countryNameZh": "中国澳门",
+      "status": 0
+  },
+  {
+      "countryId": 149,
+      "countryCode2": "MP",
+      "countryCode3": "MNP",
+      "countryNameEn": "Northern Mariana Islands",
+      "countryNameZh": "北马里亚纳群岛",
+      "status": 0
+  },
+  {
+      "countryId": 150,
+      "countryCode2": "MQ",
+      "countryCode3": "MTQ",
+      "countryNameEn": "Martinique",
+      "countryNameZh": "马提尼克",
+      "status": 0
+  },
+  {
+      "countryId": 151,
+      "countryCode2": "MR",
+      "countryCode3": "MRT",
+      "countryNameEn": "Mauritania",
+      "countryNameZh": "毛里塔尼亚",
+      "status": 0
+  },
+  {
+      "countryId": 152,
+      "countryCode2": "MS",
+      "countryCode3": "MSR",
+      "countryNameEn": "Montserrat",
+      "countryNameZh": "蒙塞拉特岛",
+      "status": 0
+  },
+  {
+      "countryId": 153,
+      "countryCode2": "MT",
+      "countryCode3": "MLT",
+      "countryNameEn": "Malta",
+      "countryNameZh": "马耳他",
+      "status": 0
+  },
+  {
+      "countryId": 154,
+      "countryCode2": "MU",
+      "countryCode3": "MUS",
+      "countryNameEn": "Mauritius",
+      "countryNameZh": "毛里求斯",
+      "status": 0
+  },
+  {
+      "countryId": 155,
+      "countryCode2": "MV",
+      "countryCode3": "MDV",
+      "countryNameEn": "Maldives",
+      "countryNameZh": "马尔代夫",
+      "status": 0
+  },
+  {
+      "countryId": 156,
+      "countryCode2": "MW",
+      "countryCode3": "MWI",
+      "countryNameEn": "Malawi",
+      "countryNameZh": "马拉维",
+      "status": 0
+  },
+  {
+      "countryId": 157,
+      "countryCode2": "MX",
+      "countryCode3": "MEX",
+      "countryNameEn": "Mexico",
+      "countryNameZh": "墨西哥",
+      "status": 0
+  },
+  {
+      "countryId": 158,
+      "countryCode2": "MY",
+      "countryCode3": "MYS",
+      "countryNameEn": "Malaysia",
+      "countryNameZh": "马来西亚",
+      "status": 1
+  },
+  {
+      "countryId": 159,
+      "countryCode2": "MZ",
+      "countryCode3": "MOZ",
+      "countryNameEn": "Mozambique",
+      "countryNameZh": "莫桑比克",
+      "status": 0
+  },
+  {
+      "countryId": 160,
+      "countryCode2": "NA",
+      "countryCode3": "NAM",
+      "countryNameEn": "Namibia",
+      "countryNameZh": "纳米比亚",
+      "status": 0
+  },
+  {
+      "countryId": 161,
+      "countryCode2": "NC",
+      "countryCode3": "NCL",
+      "countryNameEn": "New Caledonia",
+      "countryNameZh": "新喀里多尼亚",
+      "status": 0
+  },
+  {
+      "countryId": 162,
+      "countryCode2": "NE",
+      "countryCode3": "NER",
+      "countryNameEn": "Niger",
+      "countryNameZh": "尼日尔",
+      "status": 0
+  },
+  {
+      "countryId": 163,
+      "countryCode2": "NF",
+      "countryCode3": "NFK",
+      "countryNameEn": "Norfolk Island",
+      "countryNameZh": "诺福克岛",
+      "status": 0
+  },
+  {
+      "countryId": 164,
+      "countryCode2": "NG",
+      "countryCode3": "NGA",
+      "countryNameEn": "Nigeria",
+      "countryNameZh": "尼日利亚",
+      "status": 0
+  },
+  {
+      "countryId": 165,
+      "countryCode2": "NI",
+      "countryCode3": "NIC",
+      "countryNameEn": "Nicaragua",
+      "countryNameZh": "尼加拉瓜",
+      "status": 0
+  },
+  {
+      "countryId": 166,
+      "countryCode2": "NK",
+      "countryCode3": "NKR",
+      "countryNameEn": "Nagorno-Karabakh",
+      "countryNameZh": "纳戈尔诺-卡拉巴赫",
+      "status": 0
+  },
+  {
+      "countryId": 167,
+      "countryCode2": "NL",
+      "countryCode3": "NLD",
+      "countryNameEn": "Netherlands",
+      "countryNameZh": "荷兰",
+      "status": 0
+  },
+  {
+      "countryId": 168,
+      "countryCode2": "NO",
+      "countryCode3": "NOR",
+      "countryNameEn": "Norway",
+      "countryNameZh": "挪威",
+      "status": 0
+  },
+  {
+      "countryId": 169,
+      "countryCode2": "NP",
+      "countryCode3": "NPL",
+      "countryNameEn": "Nepal",
+      "countryNameZh": "尼泊尔",
+      "status": 0
+  },
+  {
+      "countryId": 170,
+      "countryCode2": "NR",
+      "countryCode3": "NRU",
+      "countryNameEn": "Nauru",
+      "countryNameZh": "瑙鲁",
+      "status": 0
+  },
+  {
+      "countryId": 171,
+      "countryCode2": "NU",
+      "countryCode3": "NIU",
+      "countryNameEn": "Niue",
+      "countryNameZh": "纽埃",
+      "status": 0
+  },
+  {
+      "countryId": 172,
+      "countryCode2": "NZ",
+      "countryCode3": "NZL",
+      "countryNameEn": "New Zealand",
+      "countryNameZh": "新西兰",
+      "status": 0
+  },
+  {
+      "countryId": 173,
+      "countryCode2": "OM",
+      "countryCode3": "OMN",
+      "countryNameEn": "Oman",
+      "countryNameZh": "阿曼",
+      "status": 0
+  },
+  {
+      "countryId": 174,
+      "countryCode2": "PA",
+      "countryCode3": "PAN",
+      "countryNameEn": "Panama",
+      "countryNameZh": "巴拿马",
+      "status": 0
+  },
+  {
+      "countryId": 175,
+      "countryCode2": "PE",
+      "countryCode3": "PER",
+      "countryNameEn": "Peru",
+      "countryNameZh": "秘鲁",
+      "status": 0
+  },
+  {
+      "countryId": 176,
+      "countryCode2": "PF",
+      "countryCode3": "PYF",
+      "countryNameEn": "French Polynesia",
+      "countryNameZh": "法属波利尼西亚",
+      "status": 0
+  },
+  {
+      "countryId": 177,
+      "countryCode2": "PG",
+      "countryCode3": "PNG",
+      "countryNameEn": "Papua New Guinea",
+      "countryNameZh": "巴布亚新几内亚",
+      "status": 0
+  },
+  {
+      "countryId": 178,
+      "countryCode2": "PH",
+      "countryCode3": "PHL",
+      "countryNameEn": "Philippines",
+      "countryNameZh": "菲律宾",
+      "status": 0
+  },
+  {
+      "countryId": 179,
+      "countryCode2": "PK",
+      "countryCode3": "PAK",
+      "countryNameEn": "Pakistan",
+      "countryNameZh": "巴基斯坦",
+      "status": 0
+  },
+  {
+      "countryId": 180,
+      "countryCode2": "PL",
+      "countryCode3": "POL",
+      "countryNameEn": "Poland",
+      "countryNameZh": "波兰",
+      "status": 0
+  },
+  {
+      "countryId": 181,
+      "countryCode2": "PM",
+      "countryCode3": "SPM",
+      "countryNameEn": "Saint Pierre and Miquelon",
+      "countryNameZh": "圣皮埃尔和密克隆",
+      "status": 0
+  },
+  {
+      "countryId": 182,
+      "countryCode2": "PN",
+      "countryCode3": "PCN",
+      "countryNameEn": "Pitcairn Islands",
+      "countryNameZh": "皮特凯恩群岛",
+      "status": 0
+  },
+  {
+      "countryId": 183,
+      "countryCode2": "PR",
+      "countryCode3": "PRI",
+      "countryNameEn": "Puerto Rico",
+      "countryNameZh": "波多黎各",
+      "status": 0
+  },
+  {
+      "countryId": 184,
+      "countryCode2": "PS",
+      "countryCode3": "PSE",
+      "countryNameEn": "Palestine, State of",
+      "countryNameZh": "巴勒斯坦",
+      "status": 0
+  },
+  {
+      "countryId": 185,
+      "countryCode2": "PT",
+      "countryCode3": "PRT",
+      "countryNameEn": "Portugal",
+      "countryNameZh": "葡萄牙",
+      "status": 0
+  },
+  {
+      "countryId": 186,
+      "countryCode2": "PW",
+      "countryCode3": "PLW",
+      "countryNameEn": "Palau",
+      "countryNameZh": "帕劳",
+      "status": 0
+  },
+  {
+      "countryId": 187,
+      "countryCode2": "PY",
+      "countryCode3": "PRY",
+      "countryNameEn": "Paraguay",
+      "countryNameZh": "巴拉圭",
+      "status": 0
+  },
+  {
+      "countryId": 188,
+      "countryCode2": "QA",
+      "countryCode3": "QAT",
+      "countryNameEn": "Qatar",
+      "countryNameZh": "卡塔尔",
+      "status": 0
+  },
+  {
+      "countryId": 189,
+      "countryCode2": "RE",
+      "countryCode3": "REU",
+      "countryNameEn": "Réunion",
+      "countryNameZh": "留尼汪",
+      "status": 0
+  },
+  {
+      "countryId": 190,
+      "countryCode2": "RO",
+      "countryCode3": "ROU",
+      "countryNameEn": "Romania",
+      "countryNameZh": "罗马尼亚",
+      "status": 0
+  },
+  {
+      "countryId": 191,
+      "countryCode2": "RS",
+      "countryCode3": "SRB",
+      "countryNameEn": "Serbia",
+      "countryNameZh": "塞尔维亚",
+      "status": 0
+  },
+  {
+      "countryId": 192,
+      "countryCode2": "RU",
+      "countryCode3": "RUS",
+      "countryNameEn": "Russian Federation",
+      "countryNameZh": "俄罗斯",
+      "status": 0
+  },
+  {
+      "countryId": 193,
+      "countryCode2": "RW",
+      "countryCode3": "RWA",
+      "countryNameEn": "Rwanda",
+      "countryNameZh": "卢旺达",
+      "status": 0
+  },
+  {
+      "countryId": 194,
+      "countryCode2": "SA",
+      "countryCode3": "SAU",
+      "countryNameEn": "Saudi Arabia",
+      "countryNameZh": "沙特阿拉伯",
+      "status": 0
+  },
+  {
+      "countryId": 195,
+      "countryCode2": "SB",
+      "countryCode3": "SLB",
+      "countryNameEn": "Solomon Islands",
+      "countryNameZh": "所罗门群岛",
+      "status": 0
+  },
+  {
+      "countryId": 196,
+      "countryCode2": "SC",
+      "countryCode3": "SYC",
+      "countryNameEn": "Seychelles",
+      "countryNameZh": "塞舌尔",
+      "status": 0
+  },
+  {
+      "countryId": 197,
+      "countryCode2": "SD",
+      "countryCode3": "SDN",
+      "countryNameEn": "Sudan",
+      "countryNameZh": "苏丹",
+      "status": 0
+  },
+  {
+      "countryId": 198,
+      "countryCode2": "SE",
+      "countryCode3": "SWE",
+      "countryNameEn": "Sweden",
+      "countryNameZh": "瑞典",
+      "status": 0
+  },
+  {
+      "countryId": 199,
+      "countryCode2": "SG",
+      "countryCode3": "SGP",
+      "countryNameEn": "Singapore",
+      "countryNameZh": "新加坡",
+      "status": 0
+  },
+  {
+      "countryId": 200,
+      "countryCode2": "SH",
+      "countryCode3": "SHN",
+      "countryNameEn": "Saint Helena, Ascension and Tristan da Cunha",
+      "countryNameZh": "圣赫勒拿",
+      "status": 0
+  },
+  {
+      "countryId": 201,
+      "countryCode2": "SI",
+      "countryCode3": "SVN",
+      "countryNameEn": "Slovenia",
+      "countryNameZh": "斯洛文尼亚",
+      "status": 0
+  },
+  {
+      "countryId": 202,
+      "countryCode2": "SJ",
+      "countryCode3": "SJM",
+      "countryNameEn": "Svalbard and Jan Mayen",
+      "countryNameZh": "斯瓦尔巴群岛",
+      "status": 0
+  },
+  {
+      "countryId": 203,
+      "countryCode2": "SK",
+      "countryCode3": "SVK",
+      "countryNameEn": "Slovakia",
+      "countryNameZh": "斯洛伐克",
+      "status": 0
+  },
+  {
+      "countryId": 204,
+      "countryCode2": "SL",
+      "countryCode3": "SLE",
+      "countryNameEn": "Sierra Leone",
+      "countryNameZh": "塞拉利昂",
+      "status": 0
+  },
+  {
+      "countryId": 205,
+      "countryCode2": "SM",
+      "countryCode3": "SMR",
+      "countryNameEn": "San Marino",
+      "countryNameZh": "圣马力诺",
+      "status": 0
+  },
+  {
+      "countryId": 206,
+      "countryCode2": "SN",
+      "countryCode3": "SEN",
+      "countryNameEn": "Senegal",
+      "countryNameZh": "塞内加尔",
+      "status": 0
+  },
+  {
+      "countryId": 207,
+      "countryCode2": "SO",
+      "countryCode3": "SOM",
+      "countryNameEn": "Somalia",
+      "countryNameZh": "索马里",
+      "status": 0
+  },
+  {
+      "countryId": 208,
+      "countryCode2": "SR",
+      "countryCode3": "SUR",
+      "countryNameEn": "Suriname",
+      "countryNameZh": "苏里南",
+      "status": 0
+  },
+  {
+      "countryId": 209,
+      "countryCode2": "SS",
+      "countryCode3": "SSD",
+      "countryNameEn": "South Sudan",
+      "countryNameZh": "南苏丹",
+      "status": 0
+  },
+  {
+      "countryId": 210,
+      "countryCode2": "ST",
+      "countryCode3": "STP",
+      "countryNameEn": "Sao Tome and Principe",
+      "countryNameZh": "圣多美和普林西比",
+      "status": 0
+  },
+  {
+      "countryId": 211,
+      "countryCode2": "SV",
+      "countryCode3": "SLV",
+      "countryNameEn": "El Salvador",
+      "countryNameZh": "萨尔瓦多",
+      "status": 0
+  },
+  {
+      "countryId": 212,
+      "countryCode2": "SX",
+      "countryCode3": "SXM",
+      "countryNameEn": "Sint Maarten (Dutch part)",
+      "countryNameZh": "荷属圣马丁",
+      "status": 0
+  },
+  {
+      "countryId": 213,
+      "countryCode2": "SY",
+      "countryCode3": "SYR",
+      "countryNameEn": "Syrian Arab Republic",
+      "countryNameZh": "叙利亚",
+      "status": 0
+  },
+  {
+      "countryId": 214,
+      "countryCode2": "SZ",
+      "countryCode3": "SWZ",
+      "countryNameEn": "Swaziland",
+      "countryNameZh": "斯威士兰",
+      "status": 0
+  },
+  {
+      "countryId": 215,
+      "countryCode2": "TC",
+      "countryCode3": "TCA",
+      "countryNameEn": "Turks and Caicos Islands",
+      "countryNameZh": "特克斯和凯科斯群岛",
+      "status": 0
+  },
+  {
+      "countryId": 216,
+      "countryCode2": "TD",
+      "countryCode3": "TCD",
+      "countryNameEn": "Chad",
+      "countryNameZh": "乍得",
+      "status": 0
+  },
+  {
+      "countryId": 217,
+      "countryCode2": "TF",
+      "countryCode3": "ATF",
+      "countryNameEn": "French Southern Territories",
+      "countryNameZh": "法属南部领地",
+      "status": 0
+  },
+  {
+      "countryId": 218,
+      "countryCode2": "TG",
+      "countryCode3": "TGO",
+      "countryNameEn": "Togo",
+      "countryNameZh": "多哥",
+      "status": 0
+  },
+  {
+      "countryId": 219,
+      "countryCode2": "TH",
+      "countryCode3": "THA",
+      "countryNameEn": "Thailand",
+      "countryNameZh": "泰国",
+      "status": 0
+  },
+  {
+      "countryId": 220,
+      "countryCode2": "TJ",
+      "countryCode3": "TJK",
+      "countryNameEn": "Tajikistan",
+      "countryNameZh": "塔吉克斯坦",
+      "status": 0
+  },
+  {
+      "countryId": 221,
+      "countryCode2": "TK",
+      "countryCode3": "TKL",
+      "countryNameEn": "Tokelau",
+      "countryNameZh": "托克劳",
+      "status": 0
+  },
+  {
+      "countryId": 222,
+      "countryCode2": "TL",
+      "countryCode3": "TLS",
+      "countryNameEn": "Timor-Leste",
+      "countryNameZh": "东帝汶",
+      "status": 0
+  },
+  {
+      "countryId": 223,
+      "countryCode2": "TM",
+      "countryCode3": "TKM",
+      "countryNameEn": "Turkmenistan",
+      "countryNameZh": "土库曼斯坦",
+      "status": 0
+  },
+  {
+      "countryId": 224,
+      "countryCode2": "TN",
+      "countryCode3": "TUN",
+      "countryNameEn": "Tunisia",
+      "countryNameZh": "突尼斯",
+      "status": 0
+  },
+  {
+      "countryId": 225,
+      "countryCode2": "TO",
+      "countryCode3": "TON",
+      "countryNameEn": "Tonga",
+      "countryNameZh": "汤加",
+      "status": 0
+  },
+  {
+      "countryId": 226,
+      "countryCode2": "TR",
+      "countryCode3": "TUR",
+      "countryNameEn": "Turkey",
+      "countryNameZh": "土耳其",
+      "status": 0
+  },
+  {
+      "countryId": 227,
+      "countryCode2": "TT",
+      "countryCode3": "TTO",
+      "countryNameEn": "Trinidad and Tobago",
+      "countryNameZh": "特立尼达和多巴哥",
+      "status": 0
+  },
+  {
+      "countryId": 228,
+      "countryCode2": "TV",
+      "countryCode3": "TUV",
+      "countryNameEn": "Tuvalu",
+      "countryNameZh": "图瓦卢",
+      "status": 0
+  },
+  {
+      "countryId": 229,
+      "countryCode2": "TW",
+      "countryCode3": "TWN",
+      "countryNameEn": "Taiwan, Province of China",
+      "countryNameZh": "中国台湾",
+      "status": 0
+  },
+  {
+      "countryId": 230,
+      "countryCode2": "TZ",
+      "countryCode3": "TZA",
+      "countryNameEn": "Tanzania, United Republic of",
+      "countryNameZh": "坦桑尼亚",
+      "status": 0
+  },
+  {
+      "countryId": 231,
+      "countryCode2": "UA",
+      "countryCode3": "UKR",
+      "countryNameEn": "Ukraine",
+      "countryNameZh": "乌克兰",
+      "status": 0
+  },
+  {
+      "countryId": 232,
+      "countryCode2": "UG",
+      "countryCode3": "UGA",
+      "countryNameEn": "Uganda",
+      "countryNameZh": "乌干达",
+      "status": 0
+  },
+  {
+      "countryId": 233,
+      "countryCode2": "UM",
+      "countryCode3": "UMI",
+      "countryNameEn": "United States Minor Outlying Islands",
+      "countryNameZh": "美国本土外小岛屿",
+      "status": 0
+  },
+  {
+      "countryId": 234,
+      "countryCode2": "US",
+      "countryCode3": "USA",
+      "countryNameEn": "United States",
+      "countryNameZh": "美国",
+      "status": 1
+  },
+  {
+      "countryId": 235,
+      "countryCode2": "UY",
+      "countryCode3": "URY",
+      "countryNameEn": "Uruguay",
+      "countryNameZh": "乌拉圭",
+      "status": 0
+  },
+  {
+      "countryId": 236,
+      "countryCode2": "UZ",
+      "countryCode3": "UZB",
+      "countryNameEn": "Uzbekistan",
+      "countryNameZh": "乌兹别克斯坦",
+      "status": 0
+  },
+  {
+      "countryId": 237,
+      "countryCode2": "VA",
+      "countryCode3": "VAT",
+      "countryNameEn": "Holy See (Vatican City State)",
+      "countryNameZh": "梵蒂冈",
+      "status": 0
+  },
+  {
+      "countryId": 238,
+      "countryCode2": "VC",
+      "countryCode3": "VCT",
+      "countryNameEn": "Saint Vincent and the Grenadines",
+      "countryNameZh": "圣文森特和格林纳丁斯",
+      "status": 0
+  },
+  {
+      "countryId": 239,
+      "countryCode2": "VE",
+      "countryCode3": "VEN",
+      "countryNameEn": "Venezuela, Bolivarian Republic of",
+      "countryNameZh": "委内瑞拉",
+      "status": 0
+  },
+  {
+      "countryId": 240,
+      "countryCode2": "VG",
+      "countryCode3": "VGB",
+      "countryNameEn": "Virgin Islands, U.S.",
+      "countryNameZh": "英属维尔京群岛",
+      "status": 0
+  },
+  {
+      "countryId": 241,
+      "countryCode2": "VI",
+      "countryCode3": "VIR",
+      "countryNameEn": "United States Virgin Islands",
+      "countryNameZh": "美属维尔京群岛",
+      "status": 0
+  },
+  {
+      "countryId": 242,
+      "countryCode2": "VN",
+      "countryCode3": "VNM",
+      "countryNameEn": "Vietnam",
+      "countryNameZh": "越南",
+      "status": 0
+  },
+  {
+      "countryId": 243,
+      "countryCode2": "VU",
+      "countryCode3": "VUT",
+      "countryNameEn": "Vanuatu",
+      "countryNameZh": "瓦努阿图",
+      "status": 0
+  },
+  {
+      "countryId": 244,
+      "countryCode2": "WF",
+      "countryCode3": "WLF",
+      "countryNameEn": "Wallis and Futuna",
+      "countryNameZh": "瓦利斯和富图纳",
+      "status": 0
+  },
+  {
+      "countryId": 245,
+      "countryCode2": "WS",
+      "countryCode3": "WSM",
+      "countryNameEn": "Samoa",
+      "countryNameZh": "萨摩亚",
+      "status": 0
+  },
+  {
+      "countryId": 246,
+      "countryCode2": "YE",
+      "countryCode3": "YEM",
+      "countryNameEn": "Yemen",
+      "countryNameZh": "也门",
+      "status": 0
+  },
+  {
+      "countryId": 247,
+      "countryCode2": "YT",
+      "countryCode3": "MYT",
+      "countryNameEn": "Mayotte",
+      "countryNameZh": "马约特",
+      "status": 0
+  },
+  {
+      "countryId": 248,
+      "countryCode2": "ZA",
+      "countryCode3": "ZAF",
+      "countryNameEn": "South Africa",
+      "countryNameZh": "南非",
+      "status": 0
+  },
+  {
+      "countryId": 249,
+      "countryCode2": "ZM",
+      "countryCode3": "ZMB",
+      "countryNameEn": "Zambia",
+      "countryNameZh": "赞比亚",
+      "status": 0
+  },
+  {
+      "countryId": 250,
+      "countryCode2": "ZW",
+      "countryCode3": "ZWE",
+      "countryNameEn": "Zimbabwe",
+      "countryNameZh": "津巴布韦",
+      "status": 0
+  }
+]

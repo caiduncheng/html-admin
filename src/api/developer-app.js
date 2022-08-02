@@ -1,0 +1,22 @@
+import fetch from '@/utils/fetch'
+
+export const signAppList = (params) => fetch('online/developer-admin/app/sign-list', params, 'GET')
+export const getAppVersionInfo = (appId, appVersionId) => fetch(`online/developer-admin/app/${appId}/version/${appVersionId}`, null, 'GET')
+export const getAppInfoPage = (params) => fetch('online/developer-admin/app', params, 'GET')
+export const getAppVersionImage = (appVersionId) => fetch(`online/developer-admin/app/version/${appVersionId}/images`, null, 'GET')
+export const getAppVersionPermission = (appVersionId) => fetch(`online/developer-admin/app/version/${appVersionId}/permission`, null, 'GET')
+export const initialExamine = (appVersionId, data) => fetch(`online/developer-admin/app/version/${appVersionId}/initial-examine`, data, 'POST')
+export const screenshotList = (appId, params) => fetch(`online/developer-admin/app/${appId}/screenshot`, params, 'GET')
+export const getInitialExamine = (params) => fetch(`online/developer-admin/app/initial-examine`, params, 'GET')
+export const getSysAppList = () => fetch('online/developer-admin/app/category-list', 'GET')
+export const getAppInfo = (appId) => fetch(`online/developer-admin/app/${appId}`)
+export const updateHighQualityStatus = (appId, params) => fetch(`online/developer-admin/app/${appId}/high-quality`, params, 'POST')
+export const appVersionList = (appId, params) => fetch(`online/developer-admin/app/${appId}/version`, params, 'GET')
+export const appRevisionList = (appId, params) => fetch(`online/developer-admin/app/${appId}/revision`, params, 'GET')
+export const appDownloadList = (appId, params) => fetch(`online/developer-admin/app/${appId}/download`, params, 'GET')
+export const examList = (params) => fetch('online/developer-admin/app/exam-list', params, 'GET')
+export const examListDetail = (params) => fetch('online/developer-admin/app/exam-list/detail', params, 'GET')
+export const examListRemark = (params) => fetch('online/developer-admin/app/exam-list/remark', params, 'POST')
+export const examListComplete = (params) => fetch('online/developer-admin/app/exam-list/complete', params, 'POST')
+
+export const appImageUpload = (params) => fetch('online/developer-admin/app/upload/screenshot', params, 'POST')
